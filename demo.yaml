@@ -12,5 +12,5 @@
 	   
   - name: Run shell script
 	  shell:
-         "./demofile.sh"
+         "./demo.sh"
 		 
