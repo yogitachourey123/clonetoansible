@@ -8,4 +8,4 @@
        clone: yes
        update: yes
    - name: Run shell script
-     command: sh /home/hcligt/my/demo.sh
+     shell: sh /home/hcligt/my/demo.sh
